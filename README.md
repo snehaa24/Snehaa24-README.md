@@ -1,8 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Sneha</h1>
 
-<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F772F7&size=25&center=true&vCenter=true&lines=Passionate+Developer;Welcome+to+my+Profile!)](https://git.io/typing-svg)
-</p>
+
 
 
 <p align="center">
