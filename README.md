@@ -30,8 +30,9 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,sql,mongodb,nodejs,express,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,mongodb,nodejs,express,vscode&theme=light" />
 </p>
+<br></br>
 
 <p align="center">
   <b>⭐️ Thanks for visiting my profile! Have a wonderful day! 🌸</b>
